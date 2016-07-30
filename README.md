@@ -1,4 +1,4 @@
-# html-to-elm
-An online tool for converting HTML to [elm-html](https://github.com/evancz/elm-html) code. 
+# html-to-pux
+An online tool for converting HTML to [purescript-pux](https://github.com/alexmingoia/purescript-pux) code. 
 
-*Go to http://mbylstra.github.io/html-to-elm/*
+*Go to http://atomicits.github.io/html-to-pux/*
